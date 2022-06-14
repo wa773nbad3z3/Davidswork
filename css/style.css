@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     margin-top: 2em;
+    font-display: white;
 }
 form {
     background-color: beige;
@@ -41,3 +42,6 @@ form + div {
 div > span {
     color: red;
 }
+body {
+    background-color: darkblue;
+  }
